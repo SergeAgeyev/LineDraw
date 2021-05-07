@@ -1,0 +1,13 @@
+// NOTES
+// ----------------------------------------------------------------------------
+
+// More
+// Bresenham's line algorithm
+// https://www.cs.helsinki.fi/group/goa/mallinnus/lines/bresenh.html
+
+// See also:
+// Supercover line alogorithm:
+// http://eugen.dedu.free.fr/projects/bresenham/
+// http://www.cse.yorku.ca/~amana/research/grid.pdf
+// Thick lines alogorithm:
+// http://homepages.enterprise.net/murphy/thickline/index.html
